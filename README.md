@@ -2,8 +2,7 @@
 Samantha-uncensored trained gemma:2b-instruct
 
 # INFO
-I ran out ouf compute time on colab and i think the weights got corrupted during download, feel free to finish training it
-
+[DOWNLOAD_WEIGHTS](https://huggingface.co/anton96vice/Gemmantha-2b-it-uncensored/upload/main)
 # Important setup
 
 ```
